@@ -1,0 +1,7 @@
+{
+  "manifest_version": 2,
+  "name": "BZ Time Extension",
+  "description": "Time Spent on Tab Distribution",
+  "version": "1.0.0",
+  "permissions": ["activeTab", "tabs"]
+}
